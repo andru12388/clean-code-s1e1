@@ -18,9 +18,11 @@
 }
 
 @media (max-width: 768px) {
-  .link-details { 
+
+  .link-details {
     text-align: center;
   }
+  
 }
 .center-wrapper {
   display: block;
