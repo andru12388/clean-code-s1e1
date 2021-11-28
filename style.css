@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.list-item, .titles-box {
+.list-item,
+.titles-box {
   list-style: none;
 }
-.entry-field,.button{
+.entry-field,
+.button{
   outline: none;
 }
 .button {
