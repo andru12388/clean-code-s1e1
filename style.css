@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.link-details { text-align: center;
-}
+  .link-details { 
+    text-align: center;
+  }
 }
 .center-wrapper {
   display: block;
